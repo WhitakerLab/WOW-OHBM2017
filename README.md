@@ -1,5 +1,5 @@
 # Working Open Workshop - HBM Hackathon 2017
-An introductory Working Open Workshop for members of the Brainhack community! You are invited to fork this repo and use our materials-- please let us know what you do with them and how it goes!
+An introductory [Working Open Workshop for members of the Brainhack community](https://whitakerlab.github.io/WOW-OHBM2017/)! You are invited to fork this repo and use our materials-- please let us know what you do with them and how it goes!
 
 ![bar](assets/images/bar.png)
 
