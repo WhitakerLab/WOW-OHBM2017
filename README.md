@@ -29,3 +29,6 @@ Check out our contribute.md to learn how to help us with WOW materials.
 At the [Mozilla Science Lab](https://science.mozilla.org/) we help researchers (anyone from students to established scientists to citizen scientists) and those who support them (developers, librarians, publishers, etc) to work openly and do better research, more research, and make that research more useful by sharing it widely.  
 
 We provide leadership training (such as this Workshop), learning materials and formats (such as [Mozilla Study Groups](http://mozillascience.github.io/studyGroupHandbook/)), platforms for sharing and showcasing open Science projects (such as [MSL Projects](https://science.mozilla.org/projects)), and support for leaders in open science (through the [Mozilla Fellows for Science](https://science.mozilla.org/programs/fellowships) and the [Open Leaders Training program](https://mozilla.github.io/open-leadership-training-series/)).
+
+## Show of appreciation
+Kevin is very grateful for this project!
